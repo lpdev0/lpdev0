@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Lorenzo
 ================================================================================================================================
-https://i.pinimg.com/1200x/80/7a/1a/807a1a2700bd768a03f50c29d29289f8.jpg
+print ("https://i.pinimg.com/1200x/80/7a/1a/807a1a2700bd768a03f50c29d29289f8.jpg")
 Web Developer | WordPress Developer | Python & AI Enthusiast
 ------------------------------------------------------------
 
