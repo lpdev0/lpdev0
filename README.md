@@ -4,83 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer | WordPress Developer | Python & AI Enthusiast
 ------------------------------------------------------------
 
-I'm a passionate and self-motivated developer focused on building modern websites, exploring new technologies, and creating practical solutions through code.
+I'm a technology enthusiast with experience in Web Development, WordPress, and AI Automation.
 
-I have hands-on experience in Web Development, WordPress, and AI-powered Automation, with a strong interest in expanding my programming skills and building meaningful projects.
+Currently, I'm expanding my programming skills by studying Python, Programming Logic, and Software Development fundamentals.
 
-I enjoy turning ideas into functional applications, solving problems, and continuously improving my technical knowledge.
-
-About Me
-
-Focused on Web Development and responsive website design.
-
-Currently learning and improving my Python programming skills.
-
-Interested in Artificial Intelligence, automation, and AI-powered applications.
-
-Experienced in developing websites and customizing WordPress projects.
-
-Passionate about exploring new technologies and building practical solutions.
-
-Continuously learning and improving as a developer.
-
-Technical Skills
-
-Web Development
-
-HTML & CSS
-
-Responsive Web Design
-
-WordPress
-
-Website Development & Customization
-
-Programming
-
-Python (Currently Learning)
-
-Programming Logic
-
-Problem-Solving
-
-Artificial Intelligence & Automation
-
-AI-powered Chatbots
-
-WhatsApp Automation
-
-AI Integration Concepts
-
-Projects & Experience
-
-I've worked on several practical projects focused on web development and automation.
-
-Website Development
-
-Developed websites and prototypes for different industries, focusing on responsive layouts, modern interfaces, usability, and functionality.
-
-Python Learning Projects
-
-Currently developing small Python projects to strengthen my programming fundamentals, logical thinking, and problem-solving skills.
-
-Current Goals
-
-Improve my Python skills and explore more advanced programming concepts.
-
-Expand my knowledge of web development technologies.
-
-Learn more about AI integration and intelligent automation.
-
-Build useful projects and grow my GitHub portfolio.
-
-Collaborate with other developers and contribute to open-source projects.
-
-Languages
-
-Portuguese : Native
-
-English : Intermediate
+I'm passionate about learning new technologies, solving problems, and building practical projects to improve my skills as a developer.
 
 * 🌍  I'm based in Brazil
 * 🧠  I'm currently learning Python, Programming Fundamentals, Software Development
