@@ -93,12 +93,3 @@ English : Intermediate
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/lpdev0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://discord.com/users/magrao10" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-### Badges
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/lpdev0/Dentora" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lpdev0&repo=Dentora&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/lpdev0/Tecnologia-Neuralkinetics" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lpdev0&repo=Tecnologia-Neuralkinetics&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/lpdev0/Life-Odontologia" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lpdev0&repo=Life-Odontologia&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
